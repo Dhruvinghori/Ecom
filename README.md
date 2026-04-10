@@ -1,5 +1,6 @@
-Product Variant Configurator
 
+
+Product Variant Configurator
 A high-performance Flutter implementation of a product detail screen featuring dynamic variant resolution, state-driven UI updates, and clean architecture.
 
 🚀 Project Overview
